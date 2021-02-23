@@ -9,23 +9,14 @@ public class FuncDeletegateExample
             string[] names = { "patient", "monitoring", "analytics","MA","anjali" };
             Func<string,bool> _handler = new Func<string, bool>(CheckStringStartWitha);
             List<string> _resultList = Iterator(names,_handler);
-			foreach(string str in _resultList)
-			{
-				Console.WriteLine(str);
-			}
+			
             _handler = new Func<string, bool>(CheckStringLengthGreaterThan5);
             _resultList = Iterator(names, _handler);
-			foreach(string name in _resultList)
-			{
-				Console.WriteLine(name);
-			}
+			
             int[] numbers = { 23, 4, 5, 6, 77, 88 };
             Func<int,bool> _intHandler = new Func<int,bool>(CheckForOddNumbers);
           List<int> intResult=  Iterator<int>(numbers, _intHandler);
-			foreach(int number in intResult)
-			{
-				Console.WriteLine(number);
-			}
+			
 			
         }
 
@@ -50,6 +41,7 @@ public class FuncDeletegateExample
                 if (predicate(input[i]))
                 {
                     result.Add(input[i]);
+	            Console.WriteLine(input[i]);
                 }
             }
 
