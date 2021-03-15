@@ -1,0 +1,13 @@
+C:\Users\320112315\source\repos\CSharpLINQ\CSharpLINQ\bin\Debug\netcoreapp3.1\CSharpLINQ.exe
+C:\Users\320112315\source\repos\CSharpLINQ\CSharpLINQ\bin\Debug\netcoreapp3.1\CSharpLINQ.deps.json
+C:\Users\320112315\source\repos\CSharpLINQ\CSharpLINQ\bin\Debug\netcoreapp3.1\CSharpLINQ.runtimeconfig.json
+C:\Users\320112315\source\repos\CSharpLINQ\CSharpLINQ\bin\Debug\netcoreapp3.1\CSharpLINQ.runtimeconfig.dev.json
+C:\Users\320112315\source\repos\CSharpLINQ\CSharpLINQ\bin\Debug\netcoreapp3.1\CSharpLINQ.dll
+C:\Users\320112315\source\repos\CSharpLINQ\CSharpLINQ\bin\Debug\netcoreapp3.1\CSharpLINQ.pdb
+C:\Users\320112315\source\repos\CSharpLINQ\CSharpLINQ\obj\Debug\netcoreapp3.1\CSharpLINQ.csprojAssemblyReference.cache
+C:\Users\320112315\source\repos\CSharpLINQ\CSharpLINQ\obj\Debug\netcoreapp3.1\CSharpLINQ.AssemblyInfoInputs.cache
+C:\Users\320112315\source\repos\CSharpLINQ\CSharpLINQ\obj\Debug\netcoreapp3.1\CSharpLINQ.AssemblyInfo.cs
+C:\Users\320112315\source\repos\CSharpLINQ\CSharpLINQ\obj\Debug\netcoreapp3.1\CSharpLINQ.csproj.CoreCompileInputs.cache
+C:\Users\320112315\source\repos\CSharpLINQ\CSharpLINQ\obj\Debug\netcoreapp3.1\CSharpLINQ.dll
+C:\Users\320112315\source\repos\CSharpLINQ\CSharpLINQ\obj\Debug\netcoreapp3.1\CSharpLINQ.pdb
+C:\Users\320112315\source\repos\CSharpLINQ\CSharpLINQ\obj\Debug\netcoreapp3.1\CSharpLINQ.genruntimeconfig.cache
