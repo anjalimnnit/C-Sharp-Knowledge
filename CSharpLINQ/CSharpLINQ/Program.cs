@@ -16,6 +16,10 @@ namespace CSharpLINQ
             result = date2.ToDeviceFormat();
             Console.WriteLine(result);
 
+            // GUID
+            Guid guid = Guid.NewGuid();
+            Console.WriteLine(guid);
+
         }
     }
 }

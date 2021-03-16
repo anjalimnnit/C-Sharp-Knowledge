@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\320112315\\source\\repos\\CSharpLINQ\\CSharpLINQ\\CSharpLINQ.csproj",
+      "projectUniqueName": "C:\\Users\\320112315\\OneDrive - Philips\\desktop\\git\\C-Knowledge\\CSharpLINQ\\CSharpLINQ\\CSharpLINQ.csproj",
       "projectName": "CSharpLINQ",
-      "projectPath": "C:\\Users\\320112315\\source\\repos\\CSharpLINQ\\CSharpLINQ\\CSharpLINQ.csproj",
+      "projectPath": "C:\\Users\\320112315\\OneDrive - Philips\\desktop\\git\\C-Knowledge\\CSharpLINQ\\CSharpLINQ\\CSharpLINQ.csproj",
       "packagesPath": "C:\\Users\\320112315\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\320112315\\source\\repos\\CSharpLINQ\\CSharpLINQ\\obj\\",
+      "outputPath": "C:\\Users\\320112315\\OneDrive - Philips\\desktop\\git\\C-Knowledge\\CSharpLINQ\\CSharpLINQ\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\320112315\\AppData\\Roaming\\NuGet\\NuGet.Config",
