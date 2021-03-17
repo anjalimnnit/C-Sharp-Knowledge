@@ -19,7 +19,9 @@ namespace CSharpLINQ
             // GUID
             Guid guid = Guid.NewGuid();
             Console.WriteLine(guid);
-
+            //
+            StringBuilderVsString str = new StringBuilderVsString();
+            str.Differnce();
         }
     }
 }
