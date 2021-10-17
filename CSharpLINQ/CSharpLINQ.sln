@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpLINQ", "CSharpLINQ\CS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventHandling", "EventHandling\EventHandling.csproj", "{1BDE6FB2-9DCE-47C0-A25D-CFB156B0EA34}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nullable", "Nullable\Nullable.csproj", "{0325FE06-701E-4F8C-96DE-E319A2C86C85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1BDE6FB2-9DCE-47C0-A25D-CFB156B0EA34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BDE6FB2-9DCE-47C0-A25D-CFB156B0EA34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BDE6FB2-9DCE-47C0-A25D-CFB156B0EA34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0325FE06-701E-4F8C-96DE-E319A2C86C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0325FE06-701E-4F8C-96DE-E319A2C86C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0325FE06-701E-4F8C-96DE-E319A2C86C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0325FE06-701E-4F8C-96DE-E319A2C86C85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -10,9 +10,9 @@ namespace EventHandling
            Console.WriteLine("Video is encoded successfully");
             OnVideoEncoded();
         }
-        public delegate void VideoEncodingEventHandler(object source, EventArgs eventArgs);
+       // public delegate void VideoEncodingEventHandler(object source, EventArgs eventArgs);
 
-        public event VideoEncodingEventHandler VideoEncoded;
+        public event EventHandler VideoEncoded;
 
         protected virtual void OnVideoEncoded()
         {
